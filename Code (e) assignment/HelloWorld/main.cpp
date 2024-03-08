@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
- * Author: mlehr
- * Created on January 4, 2023, 11:03 AM
+ * Author: Guillermo Gonzalez
+ * Created on January 29, 2023, 8:57 PM
  * Purpose:  Hello World
  *    First Program all programmers write
  *    when testing their IDE for the first
